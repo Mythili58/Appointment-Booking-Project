@@ -6,10 +6,16 @@ To develop a user-friendly mobile application that allows patients to easily boo
 
 ✨ **Key Features**:
 👩‍⚕️ Browse Doctors – View profiles, specialties, and ratings
+
 📅 Book Appointments – Select date & time with real-time availability
+
 🔔 Appointment Reminders – Get timely notifications via SMS or app
+
 💬 Online Consultations – Chat or video call with doctors
+
 📁 Medical Records – Upload and access prescriptions & reports anytime
+
 💳 Easy Payments – Secure online payments for consultation fees
+
 🌐 Multi-specialty Support – From dermatology to cardiology, all in one app
 
