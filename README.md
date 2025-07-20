@@ -94,8 +94,16 @@ The Doctor Appointment App is a modern solution for managing medical appointment
 
 ## 👥 Contributors
 
-- **Mythili Y** – Project Lead & Full Stack Developer  
-*(Add more names and roles as needed)*
+Team ID : LTVIP2025TMID58800
 
+Team Size : 4
+
+Team Leader : Y Mythili
+
+Team member : Meda Harshitha
+
+Team member : Karanam Likhitha
+
+Team member : Shaik Fahmeeda Begum
 ---
 
