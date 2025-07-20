@@ -1,7 +1,7 @@
 🩺 Doctor Appointment App – Your Health, Just a Tap Away!
 This smart healthcare app helps patients easily connect with doctors from anywhere.
 
-==🎯 Objective:==
+🎯 **Objective:**
 To develop a user-friendly mobile application that allows patients to easily book, manage, and attend doctor appointments online, reducing waiting time and improving access to healthcare through digital consultation, scheduling, and medical record management.
 
 ✨ Key Features:
